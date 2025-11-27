@@ -1,0 +1,19 @@
+git init
+ls -a
+dir
+git status
+it rm --cached testing.py
+git rm --cached testing.py
+git add testing.py
+git commit -m "added tested file"
+git config --global user.name "akashspk13"
+ll
+git rm
+git rm testing.py
+ls
+git restore testing.py
+git restore --staged testing.py
+git add .
+git sttaus
+git staus
+rm testing.py
